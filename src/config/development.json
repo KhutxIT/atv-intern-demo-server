@@ -1,0 +1,16 @@
+{
+  "host": "localhost",
+  "port": "8888",
+  "tokenSecret": "datn-social-network",
+  "tokenExpires": "14d",
+  "database": {
+    "url": "mongodb://127.0.0.1:27017/social",
+    "options": {}
+  },
+  "cloudinary": {
+    "cloudName": "domrysah7",
+    "apiKey": "968134784578231",
+    "apiSecret": "8WmCqVtYQ_mCPn3f9Dz_J09JsPY"
+  },
+  "imgSrc": "http://localhost:8888"
+}
